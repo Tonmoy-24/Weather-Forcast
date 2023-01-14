@@ -1,0 +1,28 @@
+
+body{
+  background: url(../images/Background.jpg) center top no-repeat;
+  background-size:cover;
+}
+
+.container-fluid {
+  margin-top: 40px;
+  background-color: rgb(70, 146, 182);
+  height: 300px;
+  
+}
+
+
+h1 {
+  color: rgb(40, 59, 5);
+  background-color: rgb(235, 240, 236);
+  text-align: center;
+  margin-top: 100px;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+.search{
+  width: 50%;
+  text-align: center;
+}
